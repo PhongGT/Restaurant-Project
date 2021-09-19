@@ -84,7 +84,6 @@
                 </div>
 
                
-                    
             </div>
             <div class ="food1box">
             <div class="imgfood">
@@ -175,6 +174,13 @@
             
         </div>
     </section>
+    <div class="copyright">
+    <p class="footer-p text-center">
+                    All rights reserved. Designed By<a href="#"> CSE.TLU</a>
+                    <br>
+                </p>
+                
+    </div>
     
 </body>
 </html>
