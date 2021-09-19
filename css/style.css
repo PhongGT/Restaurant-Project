@@ -1,0 +1,185 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.warpper{
+    
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.Color-white{
+    color: whites;
+}
+.Clearfix{
+    clear:both;
+    float: none;
+}
+.width100{
+    width: 100%;
+}
+.imgcurve{
+    border-radius: 20px;
+}
+.float-container{
+    position: relative;
+}
+.float-text{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+
+}
+.textwhite{
+    color:white;
+}
+.text-center{
+    text-align: center;
+}
+.Bar{
+    height: 90px;
+}
+
+}
+.Bars ul{
+    list-style: none;
+    height: 90px;
+    margin-top: 20%;
+    
+}
+.Bar ul li{
+    float:right;
+    display: inline;
+    padding: 1%;
+    margin-right: 15px;
+    margin-top: 2%;  
+}
+.Bar ul li a{
+    float :right ;
+    text-decoration: none;
+    color: #f8812f;
+    font-size: 1.25rem;
+}
+.logo{
+    width: 60%;
+    float: left;
+}
+.Picture{
+    width: 100%;
+}
+.Search{
+    padding: 7% 0;
+    background: url('../Img/165053940_197149755181859_8166334174403855475_n.jpg') center /cover no-repeat;
+    background-position: center;
+}
+.in{
+    width: 40%;
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+}
+.btn{
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+.btn-color:hover{
+    background-color: #ff4757;
+    cursor: pointer;
+}
+.btn-color{
+    background-color: #ff6b81;
+    color: white;
+}
+.ExploreFoods{
+    padding: 4% 0;
+}
+
+.boxs{
+    width: 28%;
+    float: left;
+    padding: 2% 0;
+    margin: 1%;
+    margin-left: 3.5%;
+}
+
+.food1box{
+
+    float: left;
+    width: 43%;
+    margin: 1%;
+    padding: 1%;
+    background-color: white;
+   border-radius: 20px;
+   margin-left: 4.2%;
+    
+}
+
+.FoodMenu{
+    padding: 4% 0;
+    background-color: #ececec;
+    
+    
+
+}
+.imgfood{
+    width: 20%;
+    float: left;
+}
+.food-desc{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+    padding: 1%;
+}
+.price{
+    font-size: 1.3rem;
+    margin: 2% 0;
+}
+.ingredients{
+    font-size: 1rem;
+    color: #747d8c;
+}
+.Social ul{
+    list-style-type: none;
+}
+.Social ul li{
+    display: inline;
+    padding: 1%;
+    
+}
+.Social ul li a{
+    text-decoration: none;
+    color: #f8812f;
+    font-size: 1.25 rem;
+}
+.order{
+    width: 50%;
+    margin: auto;
+    /* background: url('../Img/Orderbg.jpg') center /cover no-repeat; */
+}
+fieldset{
+    border: 1px solid white;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+    
+}
+.input-responsive{
+    width: 100%;
+    padding: 1%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    border: none;
+}
+.order-label{
+    
+    margin-bottom: 1%;
+    font-weight: bold;
+}
